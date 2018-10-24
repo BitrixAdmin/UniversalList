@@ -18,4 +18,6 @@ $arComponentDescription = array(
     ),
 );
 
+//test branch
+
 ?>

@@ -73,6 +73,6 @@ if ($arParams["SEF_MODE"] == "Y") {
 }
 
 
-
+//call to template
 $this->IncludeComponentTemplate($componentPage);
 ?>
